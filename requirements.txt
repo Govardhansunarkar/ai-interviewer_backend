@@ -8,3 +8,4 @@ pydantic
 google-auth
 google-auth-httplib2
 python-jose[cryptography]
+gunicorn
