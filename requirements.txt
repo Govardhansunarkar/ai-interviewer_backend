@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+PyPDF2
+python-multipart
+pydantic
+google-auth
+google-auth-httplib2
+python-jose[cryptography]
