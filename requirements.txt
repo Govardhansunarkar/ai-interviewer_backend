@@ -1,4 +1,4 @@
-fastapi
+﻿fastapi
 uvicorn[standard]
 gunicorn
 python-dotenv
@@ -9,3 +9,4 @@ pydantic
 google-auth
 google-auth-httplib2
 python-jose[cryptography]
+requests
